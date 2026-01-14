@@ -14,14 +14,14 @@
 
 ### 👨‍💻 About Me
 
-I am currently pursuing a **Master 2 in Financial Economics** at **Paris 1 Panthéon-Sorbonne** (partnerships with PSE & ESCP), specializing in **Asset Pricing, Risk Analysis, and Econometrics**.
+I am currently pursuing a **Master 2 in Financial Economics** at **Paris 1 Panthéon-Sorbonne in partnerships with PSE & ESCP**, specializing in **Asset Pricing, Risk Analysis, and Econometrics**.
 
-My background combines rigorous academic training with practical experience in **Wealth Management** and **Pricing Analysis** (La Banque Postale). I leverage **Python** and **VBA** to automate financial workflows and build decision-making tools.
+My background combines rigorous academic training with practical experience in **Wealth Management** and **Pricing Analysis**. I leverage **Python** and **VBA** to automate financial workflows and build decision-making tools.
 
 *   🔭 **Current Focus:** Completing my Master Thesis on *Portfolio Optimization using Social Media Sentiment Analysis*.
-*   💼 **Experience:** Pricing Analyst (La Banque Postale) & Wealth Management Assistant (AS & Associés).
-*   🗣 **Languages:** French (Native), English (Fluent), **Italian (Fluent)**.
-*   ⚽ **Interests:** Quantitative Finance, Geopolitics, Inter Milan fan.
+*   💼 **Experience:** Pricing Analyst (La Banque Postale) & Wealth Management (AS & Associés).
+*   🗣 **Languages:** French (Native), English (Fluent), Italian (Fluent).
+*   ⚽ **Interests:** Finance, Geopolitics and Inter Milan tifoso.
 
 ---
 
