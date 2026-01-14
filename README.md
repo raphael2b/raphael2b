@@ -32,7 +32,7 @@ My background combines rigorous academic training with practical experience in *
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** |![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)!(https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)!(https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
+| **Languages** |![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)!(![R](https://github.com/user-attachments/assets/d5e67da4-f1bd-4ab4-9e7e-1f9fbcf1304b"?style=flat&logo=r&logoColor=white)!(https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
 | **Data Science** |![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)!(https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black) |
 | **Finance Tools** |!(https://img.shields.io/badge/Bloomberg-2800D7?style=flat&logo=bloomberg&logoColor=white)![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 
