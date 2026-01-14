@@ -1,15 +1,12 @@
 <div align="center">
   <h1>Hi there, I'm Raphaël 👋</h1>
-  <h3>M2 Financial Economics Student @ Sorbonne University</h3>
-  <p>
-    <b>Aspiring Sales-Trader / Structurer</b> with a passion for <b>Market Finance</b> & <b>Data Science</b>.
-  </p>
-  
-  <a href="[https://www.linkedin.com/in/VOTRE_PROFIL](https://www.linkedin.com/in/VOTRE_PROFIL)">
-    <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)" alt="LinkedIn" />
+  <h3>M2 Financial Economics Student at Pantheon Sorbonne</h3>
+ <div align="center">
+  <a href="https://www.linkedin.com/in/raphael-battesti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:raphaelbattesti@icloud.com">
-    <img src="[https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
 
