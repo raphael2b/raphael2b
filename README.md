@@ -18,10 +18,10 @@ I am currently pursuing a **Master 2 in Financial Economics** at **Paris 1 Panth
 
 My background combines rigorous academic training with practical experience in **Wealth Management** and **Pricing Analysis**. I leverage **Python** and **VBA** to automate financial workflows and build decision-making tools.
 
-   🔭 **Current Focus:** Completing my Master Thesis on *Portfolio Optimization using Social Media Sentiment Analysis*.
-   💼 **Experience:** Pricing Analyst (La Banque Postale) & Wealth Management (AS & Associés).
-   🗣 **Languages:** French (Native), English (Fluent), Italian (Fluent).
-   ⚽ **Interests:** Finance, Geopolitics and Inter Milan tifoso.
+*   🔭 **Current Focus:** Completing my Master Thesis on *Portfolio Optimization using Social Media Sentiment Analysis*.
+*  💼 **Experience:** Pricing Analyst (La Banque Postale) & Wealth Management (AS & Associés).
+*  🗣 **Languages:** French (Native), English (Fluent), Italian (Fluent).
+*  ⚽ **Interests:** Finance, Geopolitics and Inter Milan tifoso.
 
 ---
 
