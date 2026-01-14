@@ -44,12 +44,10 @@ My background combines rigorous academic training with practical experience in *
 #### 2. 🏬 Credit Scoring  (Academic Project)
 > **Objective:** complete credit scoring pipeline to predict corporate financial difficulty (yd) based on a dataset of 181 firms. This analysis is based on the work of Edward I. Altman "Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy" in 1968.
    **Tech:** Python (Panda, Numpy, Matplot, etc.), R.
-   **Methodology:** The analysis follows a rigorous econometric approach, comparing Linear Probability (LPM), Logit, and Probit models.
 > 
-#### 3.  Panel Data Analysis (Academic Project)
-> **Objective:** Pricing Barrier and Asian options using Monte Carlo simulations.
-   **Tech:** Python, NumPy.
-   **Methodology:** Implemented Variance Reduction techniques (Antithetic variates) to speed up convergence.
+#### 3. 🗓️ Panel Data Analysis (Academic Project)
+> **Objective:** Investigate the "finance-growth nexus" by replicating and extending the original authors'(De Haas & Popov 2023) methodology using diverse software environments.
+   **Tech:** Python (Panda, NumPy, SciPy, etc.), R, STATA.
 
 <div align="center">
   <i>Let's connect and discuss Market Opportunities!</i>
