@@ -56,20 +56,6 @@ My background combines rigorous academic training with practical experience in *
 *   **Tech:** Python, NumPy.
 *   **Features:** Implemented Variance Reduction techniques (Antithetic variates) to speed up convergence.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&count_private=true](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&count_private=true)" alt="Raphael's Github Stats" />
-</a>
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical&card_width=330](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical&card_width=330)" />
-</a>
-</div>
-
----
 <div align="center">
   <i>Let's connect and discuss Market Opportunities!</i>
 </div>
